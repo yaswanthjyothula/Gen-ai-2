@@ -154,11 +154,6 @@ export default function LandingPage() {
       <section className="relative overflow-hidden pt-16 pb-20 lg:pt-24 lg:pb-28 border-b border-[#E2E8F0] bg-white">
         <div className="max-w-7xl mx-auto px-6 grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-7 space-y-6">
-            <div className="inline-flex items-center space-x-2 px-3 py-1 rounded-full bg-[#EFF6FF] border border-[#BFDBFE] text-[#1E40AF] text-xs font-bold tracking-wide">
-              <Shield className="w-3.5 h-3.5 text-[#2563EB]" />
-              <span>DECISION-SUPPORT INTELLIGENCE FOR INVESTIGATORS</span>
-            </div>
-
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-black text-[#0F172A] tracking-tight leading-[1.1]">
               Understand complex criminal networks through{' '}
               <span className="text-[#2563EB]">explainable graph intelligence.</span>
